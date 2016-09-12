@@ -1,0 +1,28 @@
+{
+  "name": "server_practive",
+  "version": "1.0.0",
+  "description": "This is a practice asiignment on HTTP & Express.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengweitsai/hr_Practice.git"
+  },
+  "author": "Cheng_Wei,Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengweitsai/hr_Practice/issues"
+  },
+  "homepage": "https://github.com/chengweitsai/hr_Practice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "nunjucks": "^2.4.1",
+    "path": "^0.12.7",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
