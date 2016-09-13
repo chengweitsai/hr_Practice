@@ -12,7 +12,7 @@
   name: String,
 }
 ```
-- 以變數` database `代表臨時的資料庫，在 `app.js`中寫初始狀況有兩位user資料：
+- 以變數` database `代表臨時的資料庫，在 `app.js`中初始狀況有兩位user資料：
 ```
 var database = {
   users: [
